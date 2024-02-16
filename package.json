@@ -1,10 +1,10 @@
 {
-  "name": "cypress-axe",
+  "name": "cypress-axe-with-results-callback",
   "version": "1.2.0",
   "license": "MIT",
   "description": "Test accessibility with axe-core in Cypress",
-  "homepage": "https://github.com/component-driven/cypress-axe",
-  "repository": "component-driven/cypress-axe",
+  "homepage": "https://github.com/peterSirotnak/cypress-axe",
+  "repository": "peterSirotnak/cypress-axe",
   "files": [
     "dist"
   ],
